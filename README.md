@@ -1,4 +1,4 @@
-# lab2bpart5
+# lab2bpart
 
 part5:
 teammates:Sudong Wang & Sizhe Ma
