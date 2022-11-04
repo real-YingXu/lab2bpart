@@ -16,7 +16,9 @@ connecting circuit
 ##
 
 
-The yellow channel is Clock 
+The yellow channel is clock 
+
+
 the green channel is data
 
 ![image](https://user-images.githubusercontent.com/114256663/200049272-88e6d64f-d10f-4fe2-ab09-5ac8af2a18af.png)
